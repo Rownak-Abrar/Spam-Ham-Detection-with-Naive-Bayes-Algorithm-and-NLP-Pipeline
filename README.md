@@ -1,0 +1,1 @@
+Ever wondered how our inbox filters the Ham and Spam massages? Here is the complete code to detect which massage is Spam or which is Ham.In this notebook their is 4825 Ham Massage and 747 Spam Massage.When you type a email in the Email list,it will detect weather it is spam or ham type mail.
